@@ -1,0 +1,19 @@
+package main
+
+// string
+// bool
+// int8
+// uint8(byte)
+// int16
+// uint16
+// int32(rune)
+// uint32
+// int64
+// uint64
+// int
+// uint
+// uintptr
+// float32
+// float64
+// complex64
+// complex128
